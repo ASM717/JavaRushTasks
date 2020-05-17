@@ -1,0 +1,27 @@
+Index: out.log
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out.log	(revision 91f69712bdb7ec5591ddaa0a9d53f78dd570bcf7)
++++ out.log	(date 1589629848959)
+@@ -13165,3 +13165,18 @@
+ 2020-05-16 14:30:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+ 2020-05-16 14:31:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+ 2020-05-16 14:32:40 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-16 14:50:07 INFO  PluginTasksProjectComponent.projectClosing(188) - ---------- Project closed ----------
++
++2020-05-16 14:50:08 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
++2020-05-16 14:50:46 INFO  PluginTasksProjectComponent.projectOpened(77) - ---------- Project opened ----------
++2020-05-16 14:50:46 INFO  PluginTasksProjectComponent.projectOpened(78) - ---------- Version 3.38 ----------
++
++2020-05-16 14:50:46 INFO  ApacheHttpClient.createAsyncHttpClient(143) - 1 proxies selected. Type: DIRECT
++2020-05-16 14:50:46 INFO  ApacheHttpClient.<init>(94) - ApacheHttpClient was successfully instantiated.
++2020-05-16 14:50:47 INFO  ApacheHttpClient.testConnection(202) - responseCode = 200
++2020-05-16 14:50:47 INFO  ApacheHttpClient.testConnection(217) - result = true
++2020-05-16 14:50:48 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(594) - Waiting for server response.
++2020-05-16 14:50:48 INFO  ApacheHttpClient.refreshUserInfo(302) - responseCode = 200
++2020-05-16 14:50:48 INFO  ApacheHttpClient.refreshUserInfo(308) - User information received.
++2020-05-16 14:50:48 INFO  ApacheHttpClient.startGA(35) - GAService started.
++2020-05-16 14:50:48 INFO  AbstractRestApiClient.startService(71) - EventsService started.
+diff --git .idea/workspace.xml .idea/workspace.xml

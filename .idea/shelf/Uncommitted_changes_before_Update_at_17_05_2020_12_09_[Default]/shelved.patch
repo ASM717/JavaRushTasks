@@ -1,0 +1,35 @@
+Index: out.log
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- out.log	(revision 960cefb25dada8ba67df18b0e072c922eeb223c5)
++++ out.log	(date 1589706524674)
+@@ -13721,3 +13721,27 @@
+ 2020-05-17 11:53:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+ 2020-05-17 11:54:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
+ 2020-05-17 11:55:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 11:56:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 11:57:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 11:58:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 11:59:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 12:00:16 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
++2020-05-17 12:00:16 INFO  ApacheHttpClient.getFilteredTasks(333) - responseCode = 200
++2020-05-17 12:00:20 INFO  ApacheHttpClient.getTaskTemplateInfo(350) - responseCode = 200
++2020-05-17 12:00:21 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
++2020-05-17 12:00:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 12:00:46 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
++2020-05-17 12:00:47 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
++2020-05-17 12:01:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 12:02:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 12:03:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 12:04:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 12:05:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 12:06:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 12:07:27 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
++2020-05-17 12:07:27 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
++2020-05-17 12:07:27 INFO  ApacheHttpClient.getWebResourceAsStream(494) - responseCode = 200
++2020-05-17 12:07:28 INFO  ApacheHttpClient.completed(28) - responseCode = 200
++2020-05-17 12:07:28 INFO  ApacheHttpClient.getTask(480) - responseCode = 200
++2020-05-17 12:07:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200
++2020-05-17 12:08:44 INFO  ApacheHttpClient.sendEvent(527) - responseCode = 200

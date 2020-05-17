@@ -1,0 +1,1027 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="3.JavaMultithreading:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>internship</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_USER" value="ASM717" />
+    <option name="CREATE_PULL_REQUEST_DEFAULT_REPO_NAME" value="JavaRushTasks" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ASM717/JavaRushTasks.git" />
+      </set>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectId" id="1WyEu2xnWGLYmUpY0ZGCSS8uHB4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.splitter.proportion" value="0.27507755" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.javarush.task.task30.task3008.client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stepa\Google Диск\JavaRushTasks\JavaRushTasks\2.JavaCore\src\com\javarush\task\task13\task1318" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.task.task30.task3004" />
+      <recent name="com.javarush.task.task27.task2712.ad" />
+      <recent name="com.javarush.task.task23.task2304" />
+      <recent name="com.javarush.task.task18.task1811" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Solution">
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration name="Restaurant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task27.task2712.Restaurant" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task27.task2712.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3001.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task30.task3001.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3013.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task30.task3013.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3003.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task30.task3003.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3005.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task30.task3005.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Restaurant" />
+      <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Restaurant" />
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\stepa\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="" />
+      <created>1477641354970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477641354970</updated>
+      <workItem from="1477641356271" duration="140000" />
+      <workItem from="1477661127283" duration="4000" />
+      <workItem from="1479892128348" duration="345000" />
+      <workItem from="1480667976301" duration="11000" />
+      <workItem from="1480667993737" duration="5000" />
+      <workItem from="1484838281338" duration="128000" />
+      <workItem from="1484897111171" duration="42000" />
+      <workItem from="1485161981498" duration="29000" />
+      <workItem from="1485162014696" duration="83000" />
+      <workItem from="1485177835943" duration="100000" />
+    </task>
+    <task id="LOCAL-00001" summary="no bug">
+      <created>1589581410961</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589581410961</updated>
+    </task>
+    <task id="LOCAL-00002" summary="no bug">
+      <created>1589583308626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1589583308626</updated>
+    </task>
+    <task id="LOCAL-00003" summary="git">
+      <created>1589618678564</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589618678564</updated>
+    </task>
+    <task id="LOCAL-00004" summary="git">
+      <created>1589627213558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589627213558</updated>
+    </task>
+    <task id="LOCAL-00005" summary="git">
+      <created>1589628827317</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1589628827317</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit new">
+      <created>1589629346511</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1589629346511</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test">
+      <created>1589631484647</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589631484647</updated>
+    </task>
+    <task id="LOCAL-00008" summary="restic">
+      <created>1589667692513</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1589667692513</updated>
+    </task>
+    <task id="LOCAL-00009" summary="git">
+      <created>1589669919257</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1589669919257</updated>
+    </task>
+    <task id="LOCAL-00010" summary="git">
+      <created>1589670081115</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1589670081115</updated>
+    </task>
+    <task id="LOCAL-00011" summary="git">
+      <created>1589670158559</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1589670158559</updated>
+    </task>
+    <task id="LOCAL-00012" summary="new task">
+      <created>1589705163060</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1589705163060</updated>
+    </task>
+    <task id="LOCAL-00013" summary="new task">
+      <created>1589705204520</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1589705204520</updated>
+    </task>
+    <task id="LOCAL-00014" summary="new task">
+      <created>1589705257564</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1589705257564</updated>
+    </task>
+    <task id="LOCAL-00015" summary="commit">
+      <created>1589705592038</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1589705592038</updated>
+    </task>
+    <task id="LOCAL-00016" summary="should commit">
+      <created>1589705755817</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1589705755817</updated>
+    </task>
+    <task id="LOCAL-00017" summary="should commit">
+      <created>1589706476280</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1589706476280</updated>
+    </task>
+    <task id="LOCAL-00018" summary="number">
+      <created>1589706591154</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1589706591154</updated>
+    </task>
+    <task id="LOCAL-00019" summary="commit">
+      <created>1589710482003</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1589710482003</updated>
+    </task>
+    <task id="LOCAL-00020" summary="com">
+      <created>1589710721282</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1589710721282</updated>
+    </task>
+    <task id="LOCAL-00021" summary="com">
+      <created>1589710954402</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1589710954402</updated>
+    </task>
+    <task id="LOCAL-00022" summary="start">
+      <created>1589711278399</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1589711278399</updated>
+    </task>
+    <task id="LOCAL-00023" summary="start">
+      <created>1589711320514</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1589711320514</updated>
+    </task>
+    <task id="LOCAL-00024" summary="start">
+      <created>1589711419221</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1589711419221</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="887000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CUSTOM_SHELF_PATH" value="$PROJECT_DIR$/.idea/shelf" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$/1.JavaSyntax" />
+      <path value="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush" />
+      <path value="$PROJECT_DIR$/JavaRushTasks" />
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.idea" />
+      <path value="$PROJECT_DIR$/2.JavaCore" />
+      <path value="$PROJECT_DIR$/3.JavaMultithreading" />
+      <path value="$PROJECT_DIR$/4.JavaCollections" />
+      <path value="$PROJECT_DIR$/5.OnlineInternship" />
+    </ignored-roots>
+    <MESSAGE value="no bug" />
+    <MESSAGE value="commit new" />
+    <MESSAGE value="test" />
+    <MESSAGE value="restic" />
+    <MESSAGE value="git" />
+    <MESSAGE value="new task" />
+    <MESSAGE value="should commit" />
+    <MESSAGE value="number" />
+    <MESSAGE value="Com" />
+    <MESSAGE value="Commit" />
+    <MESSAGE value="commit" />
+    <MESSAGE value="com" />
+    <MESSAGE value="start" />
+    <option name="LAST_COMMIT_MESSAGE" value="start" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" width="652" height="668" key="#Notifications" timestamp="1589710180548">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="590" y="132" key="#Notifications/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589625425237" />
+    <state x="361" y="76" width="652" height="668" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1589710180548" />
+    <state x="361" y="58" key="#Plugins" timestamp="1589580200781">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="58" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1589580200781" />
+    <state x="386" y="98" key="#VisualVM_Launcher" timestamp="1586647151890">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="386" y="98" key="#VisualVM_Launcher/0.0.1536.834@0.0.1536.834" timestamp="1586647151890" />
+    <state x="499" y="172" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1588945145859">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="172" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.834@0.0.1536.834" timestamp="1588945145859" />
+    <state x="53" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586128974270">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="53" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1586128974270" />
+    <state x="510" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1588533383336">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="510" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1588533383336" />
+    <state x="883" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1589704938874">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="898" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585388553873" />
+    <state x="883" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1589704938874" />
+    <state x="385" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588327949035">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="385" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1588327949035" />
+    <state x="491" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1589585610029">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="491" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1589585610029" />
+    <state x="616" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1588371521151">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="616" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1588371521151" />
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588602611197">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1588602611197" />
+    <state x="366" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584521642480">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="366" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834@0.0.1536.834" timestamp="1584521642480" />
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588846728207">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1588846728207" />
+    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1586681273632">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834@0.0.1536.834" timestamp="1586681273632" />
+    <state x="377" y="0" key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog" timestamp="1581608109962">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="377" y="0" key="#org.jetbrains.kotlin.idea.refactoring.safeDelete.KotlinOverridingDialog/0.0.1536.834@0.0.1536.834" timestamp="1581608109962" />
+    <state x="460" y="264" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586592469640">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="460" y="264" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1586592469640" />
+    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1589580409281">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589580409281" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1589583148242">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1589583148242" />
+    <state x="549" y="160" key="FileChooserDialogImpl" timestamp="1589707314600">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626292927" />
+    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589707314600" />
+    <state x="588" y="337" key="Github.CreateGistDialog" timestamp="1589618230179">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="588" y="337" key="Github.CreateGistDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589618230179" />
+    <state x="588" y="337" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1589585619754" />
+    <state x="546" y="284" key="Github.CreatePullRequestDialog" timestamp="1589625986732">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="546" y="284" key="Github.CreatePullRequestDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589625986732" />
+    <state x="642" y="198" key="Github.ShareDialog" timestamp="1589718916987">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="670" y="314" key="Github.ShareDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589631301937" />
+    <state x="642" y="198" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1589718916987" />
+    <state x="556" y="160" width="882" height="590" key="Github.UntrackedFilesDialog" timestamp="1589626866194">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="556" y="160" width="882" height="590" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626866194" />
+    <state x="477" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589586628508" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1589717564774">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589659762062" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589717564774" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1589717564773">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589659762062" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589717564773" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1589717564773">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589659762061" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589717564773" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1589717564774">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589659762062" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589717564774" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1589381677748">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589381677748" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1589381677748">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1589381677748" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1589381677748">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1589381677748" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1589381677748">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1589381677748" />
+    <state x="349" y="153" key="IDE.errors.dialog" timestamp="1589314197076">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="153" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1589314197076" />
+    <state x="234" y="66" key="MergeDialog" timestamp="1589710292476">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="234" y="66" key="MergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1589710292476" />
+    <state x="656" y="285" width="454" height="263" key="MultipleFileMergeDialog" timestamp="1589710292479">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="656" y="285" width="454" height="263" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1589710292479" />
+    <state x="467" y="120" key="RollbackChangesDialog" timestamp="1589626091514">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="467" y="120" key="RollbackChangesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626091514" />
+    <state x="166" y="68" width="981" height="707" key="SettingsEditor" timestamp="1589727350297">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="226" y="59" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589659574974" />
+    <state x="166" y="68" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1589727350297" />
+    <state x="508" y="133" key="VCS.ChangeListViewerDialog" timestamp="1589706582929">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="508" y="133" key="VCS.ChangeListViewerDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589630439048" />
+    <state x="508" y="133" key="VCS.ChangeListViewerDialog/0.0.1536.834@0.0.1536.834" timestamp="1589706582929" />
+    <state x="599" y="287" key="VCS.EditChangelistDialog" timestamp="1589624270826">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="599" y="287" key="VCS.EditChangelistDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589624270826" />
+    <state x="369" y="187" key="Vcs.Push.Dialog.v2" timestamp="1589717504588">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="369" y="187" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589670602043" />
+    <state x="369" y="187" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589717504588" />
+    <state x="522" y="234" key="com.intellij.ide.util.TipDialog" timestamp="1588602601071">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="460" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585385998555" />
+    <state x="522" y="234" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1588602601071" />
+    <state x="491" y="151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589628816841">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="491" y="151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589628816841" />
+    <state x="573" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589710241715">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="573" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589628974769" />
+    <state x="573" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1589710241715" />
+    <state x="507" y="206" key="git4idea.merge.GitPullDialog" timestamp="1589630506362">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="507" y="206" key="git4idea.merge.GitPullDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589630506362" />
+    <state x="507" y="206" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1589584805051" />
+    <state x="536" y="279" key="git4idea.rebase.GitRebaseDialog" timestamp="1589586416164">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="536" y="279" key="git4idea.rebase.GitRebaseDialog/0.0.1536.834@0.0.1536.834" timestamp="1589586416164" />
+    <state x="517" y="312" key="git4idea.ui.GitResetDialog" timestamp="1589586377180">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="517" y="312" key="git4idea.ui.GitResetDialog/0.0.1536.834@0.0.1536.834" timestamp="1589586377180" />
+    <state x="217" y="63" key="new project wizard" timestamp="1589619655638">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="217" y="63" key="new project wizard/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589619655638" />
+    <state x="243" y="70" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1589188925482" />
+    <state x="511" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1589278828696">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="511" y="38" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1589278828696" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1588458229245">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1588458229245" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1589660595207">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589660595207" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1589657030288" />
+    <state x="599" y="208" key="svn.repositoryBrowser" timestamp="1589584042656">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="599" y="208" key="svn.repositoryBrowser/0.0.1536.834@0.0.1536.834" timestamp="1589584042656" />
+    <state x="593" y="191" key="svn4idea.import.options" timestamp="1589584040971">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="593" y="191" key="svn4idea.import.options/0.0.1536.834@0.0.1536.834" timestamp="1589584040971" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task29/task2909/car/Car.java</url>
+          <line>100</line>
+          <properties class="com.javarush.task.task29.task2909.car.Car" method="canPassengersBeTransferred">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaRushTasks$Solution__3_.ic" NAME="Solution (3) Coverage Results" MODIFIED="1582466920193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javarush.task.task21.task2106.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/JavaRushTasks$Restaurant.ic" NAME="Restaurant Coverage Results" MODIFIED="1589380385025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.javarush.task.task27.task2712.*</FILTER>
+    </SUITE>
+  </component>
+</project>

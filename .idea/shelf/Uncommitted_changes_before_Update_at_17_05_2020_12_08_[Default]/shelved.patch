@@ -1,0 +1,24 @@
+Index: JavaRushPlugin.properties
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>#Sun May 17 11:45:15 MSK 2020\r\njavarush.last.task.key=com.javarush.task.task30.task3004\r\njavarush.session.id=08e40330-a87b-4fb1-83a2-be8cd1e6eb81\r\njavarush.skip.set.autoscrolls=true\r\ndesktop-game-engine.jar=1.0\r\njavarush.user.secretkey=b73e14e0-c5e3-4e6b-8258-40a74a3d7bc6\r\njavarush.query.filter=\r\njavarush.last.task.path=C\\:/Users/stepa/Google \\u0414\\u0438\\u0441\\u043A/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task30/task3004\r\njavarush.status.filter=ASSIGNED\r\njavarush.quest.filter=QUEST_JAVA_MULTITHREADING\r\njavarush.level.filter=-1\r\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>windows-1251
+===================================================================
+--- JavaRushPlugin.properties	(revision a56bd6dd0376c061f3100623e253a63070bcf14b)
++++ JavaRushPlugin.properties	(date 1589706447166)
+@@ -1,11 +1,11 @@
+-#Sun May 17 11:45:15 MSK 2020
+-javarush.last.task.key=com.javarush.task.task30.task3004
++#Sun May 17 12:07:27 MSK 2020
++javarush.last.task.key=com.javarush.task.task30.task3013
+ javarush.session.id=08e40330-a87b-4fb1-83a2-be8cd1e6eb81
+ javarush.skip.set.autoscrolls=true
+ desktop-game-engine.jar=1.0
+ javarush.user.secretkey=b73e14e0-c5e3-4e6b-8258-40a74a3d7bc6
+ javarush.query.filter=
+-javarush.last.task.path=C\:/Users/stepa/Google \u0414\u0438\u0441\u043A/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task30/task3004
++javarush.last.task.path=C\:/Users/stepa/Google \u0414\u0438\u0441\u043A/JavaRushTasks/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/task30/task3013
+ javarush.status.filter=ASSIGNED
+ javarush.quest.filter=QUEST_JAVA_MULTITHREADING
+ javarush.level.filter=-1

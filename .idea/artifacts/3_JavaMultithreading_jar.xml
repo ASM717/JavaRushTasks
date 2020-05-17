@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="3.JavaMultithreading:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/3_JavaMultithreading_jar</output-path>
+    <root id="archive" name="3.JavaMultithreading.jar">
+      <element id="module-output" name="3.JavaMultithreading" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2/lib/src.zip" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/javafx-sdk-12.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/8.Games/lib/desktop-game-engine.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
