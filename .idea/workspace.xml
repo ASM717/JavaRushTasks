@@ -11,9 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3006/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3006/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3006/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3012/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3012/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +100,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/AndroidTutorialForBeginners#" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -127,7 +126,7 @@
       <recent name="com.javarush.task.task18.task1811" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -384,20 +383,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3013.Solution" />
-      <module name="3.JavaMultithreading" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task30.task3013.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3006.Solution" />
       <module name="3.JavaMultithreading" />
@@ -405,6 +390,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.javarush.task.task30.task3006.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3012.Solution" />
+      <module name="3.JavaMultithreading" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.task.task30.task3012.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -492,19 +491,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (3)" />
       <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="Application.Solution (5)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -706,6 +705,16 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="1" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -856,10 +865,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1589583148242" />
-    <state x="549" y="160" key="FileChooserDialogImpl" timestamp="1589707314600">
+    <state x="549" y="160" key="FileChooserDialogImpl" timestamp="1589809760682">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626292927" />
+    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589809760682" />
     <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589707314600" />
     <state x="588" y="337" key="Github.CreateGistDialog" timestamp="1589618230179">
       <screen x="0" y="0" width="1536" height="834" />
@@ -880,25 +889,25 @@
     </state>
     <state x="556" y="160" width="882" height="590" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626866194" />
     <state x="477" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589727388899" />
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1589805780983">
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1589844997724">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589805780983" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589844997724" />
     <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589717564774" />
-    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1589805780983">
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1589844997724">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589805780983" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589844997724" />
     <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589717564773" />
-    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1589805780983">
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1589844997724">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589805780983" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589844997724" />
     <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589717564773" />
-    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1589805780983">
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1589844997724">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589805780983" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589844997724" />
     <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589717564774" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1589381677748">
       <screen x="0" y="0" width="1536" height="834" />
@@ -978,10 +987,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="517" y="312" key="git4idea.ui.GitResetDialog/0.0.1536.834@0.0.1536.834" timestamp="1589586377180" />
-    <state x="217" y="63" key="new project wizard" timestamp="1589619655638">
+    <state x="217" y="63" key="new project wizard" timestamp="1589821025920">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="217" y="63" key="new project wizard/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589619655638" />
+    <state x="217" y="63" key="new project wizard/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589821025920" />
     <state x="243" y="70" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1589188925482" />
     <state x="511" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1589278828696">
       <screen x="0" y="0" width="1536" height="834" />
