@@ -11,8 +11,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3012/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task30/task3012/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Model.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Задание" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +105,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/AndroidTutorialForBeginners#" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/uniquenumber" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -491,11 +496,11 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (4)" />
       <item itemvalue="Application.Solution (5)" />
+      <item itemvalue="Application.Solution" />
     </list>
     <recent_temporary>
       <list>
@@ -816,11 +821,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="510" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1588533383336" />
-    <state x="883" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1589704938874">
+    <state x="883" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1590137821489">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="898" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1585388553873" />
-    <state x="883" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1589704938874" />
+    <state x="883" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1590137821489" />
     <state x="385" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588327949035">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -865,11 +870,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1589583148242" />
-    <state x="549" y="160" key="FileChooserDialogImpl" timestamp="1589809760682">
+    <state x="549" y="160" key="FileChooserDialogImpl" timestamp="1590050395763">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589809760682" />
-    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1589707314600" />
+    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589966024811" />
+    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1590050395763" />
     <state x="588" y="337" key="Github.CreateGistDialog" timestamp="1589618230179">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -889,25 +894,25 @@
     </state>
     <state x="556" y="160" width="882" height="590" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626866194" />
     <state x="477" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589727388899" />
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1589844997724">
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom" timestamp="1589845660068">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589844997724" />
+    <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589845660068" />
     <state width="1493" height="221" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1589717564774" />
-    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1589844997724">
+    <state width="1493" height="221" key="GridCell.Tab.0.center" timestamp="1589845660068">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589844997724" />
+    <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589845660068" />
     <state width="1493" height="221" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1589717564773" />
-    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1589844997724">
+    <state width="1493" height="221" key="GridCell.Tab.0.left" timestamp="1589845660068">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589844997724" />
+    <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589845660068" />
     <state width="1493" height="221" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1589717564773" />
-    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1589844997724">
+    <state width="1493" height="221" key="GridCell.Tab.0.right" timestamp="1589845660068">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589844997724" />
+    <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589845660068" />
     <state width="1493" height="221" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1589717564774" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1589381677748">
       <screen x="0" y="0" width="1536" height="834" />
@@ -987,11 +992,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="517" y="312" key="git4idea.ui.GitResetDialog/0.0.1536.834@0.0.1536.834" timestamp="1589586377180" />
-    <state x="217" y="63" key="new project wizard" timestamp="1589821025920">
+    <state x="243" y="70" key="new project wizard" timestamp="1589876981836">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="217" y="63" key="new project wizard/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589821025920" />
-    <state x="243" y="70" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1589188925482" />
+    <state x="243" y="70" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1589876981836" />
     <state x="511" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1589278828696">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
