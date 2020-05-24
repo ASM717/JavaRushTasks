@@ -94,4 +94,8 @@ public class Tile {
 
         return Objects.hash(value);
     }
+
+    public int getValue() {
+        return value;
+    }
 }

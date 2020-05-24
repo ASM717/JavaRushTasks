@@ -10,6 +10,9 @@ public class Model {
     int score;
     int maxTile;
 
+    private Stack<Integer> previousScores = new Stack<>();
+    private Stack<Tile[][]> previousStates = new Stack<>();
+    private boolean isSaveNeeded = true;
 
     public Tile[][] getGameTiles() {
         return gameTiles;
@@ -29,8 +32,8 @@ public class Model {
     }
 
     public void resetGameTiles() {
-        score = 0;
-        maxTile = 2;
+
+        gameTiles = new Tile[Model.FIELD_WIDTH][Model.FIELD_WIDTH];
         for (int i = 0; i < FIELD_WIDTH; i++) {
             for (int j = 0; j < FIELD_WIDTH; j++) {
                 gameTiles[i][j] = new Tile();
@@ -194,6 +197,32 @@ public class Model {
             }
         }
         return false;
+    }
+
+    private void saveState (Tile[][] tiles) {
+
+        Tile[][] tiles1 = new Tile[FIELD_WIDTH][FIELD_WIDTH];
+
+        for (int i = 0; i < tiles.length; i++) {
+            for (int j = 0; j < tiles.length; j++) {
+                tiles1[i][j] = new Tile(tiles[i][j].value);
+            }
+        }
+
+        previousStates.push(tiles1);
+
+        previousScores.push(score);
+
+        isSaveNeeded = false;
+
+    }
+
+    public void rollback() {
+
+        if (!previousStates.empty() & !previousScores.empty()) {
+            this.gameTiles = previousStates.pop();
+            this.score = previousScores.pop();
+        }
     }
 }
 
