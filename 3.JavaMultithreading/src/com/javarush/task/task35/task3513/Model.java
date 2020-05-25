@@ -32,6 +32,15 @@ public class Model {
     }
 
     public void resetGameTiles() {
+        /*score = 0;
+        maxTile = 2;
+        for (int i = 0; i < FIELD_WIDTH; i++) {
+            for (int j = 0; j < FIELD_WIDTH; j++) {
+                gameTiles[i][j] = new Tile();
+            }
+        }
+        addTile();
+        addTile();*/
 
         gameTiles = new Tile[Model.FIELD_WIDTH][Model.FIELD_WIDTH];
         for (int i = 0; i < FIELD_WIDTH; i++) {
@@ -133,6 +142,10 @@ public class Model {
     }
 
     void left() {
+        if (isSaveNeeded = true) {
+            saveState(gameTiles);
+        }
+
         if (move()) {
             addTile();
         }
@@ -140,6 +153,7 @@ public class Model {
 
 
     public void right() {
+        saveState(gameTiles);
         rotate();
         rotate();
         if (move()) {
@@ -150,6 +164,7 @@ public class Model {
     }
 
     public void up() {
+        saveState(gameTiles);
         rotate();
         rotate();
         rotate();
@@ -157,10 +172,10 @@ public class Model {
             addTile();
         }
         rotate();
-
     }
 
     public void down() {
+        saveState(gameTiles);
         rotate();
         if (move()) {
             addTile();
@@ -218,12 +233,23 @@ public class Model {
     }
 
     public void rollback() {
-
         if (!previousStates.empty() & !previousScores.empty()) {
             this.gameTiles = previousStates.pop();
             this.score = previousScores.pop();
         }
     }
+
+    public void randomMove() {
+        int n = ((int) (Math.random() * 100)) % 4;
+
+        switch (n) {
+            case 0 : left(); break;
+            case 1 : right(); break;
+            case 2 : up(); break;
+            case 3 : down(); break;
+        }
+    }
+
 }
 
 
