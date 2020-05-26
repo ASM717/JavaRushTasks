@@ -6,8 +6,8 @@ import java.awt.*;
 public class View extends JPanel {
     private static final Color BG_COLOR = new Color(0xbbada0);
     private static final String FONT_NAME = "Arial";
-    private static final int TILE_SIZE = 96;
-    private static final int TILE_MARGIN = 12;
+    private static final int TILE_SIZE = 80; //96 стандарт
+    private static final int TILE_MARGIN = 8; //12
 
     private Controller controller;
 
@@ -25,18 +25,18 @@ public class View extends JPanel {
         super.paint(g);
         g.setColor(BG_COLOR);
         g.fillRect(0, 0, this.getSize().width, this.getSize().height);
-        for (int x = 0; x < 4; x++) {
-            for (int y = 0; y < 4; y++) {
+        for (int x = 0; x < 8; x++) {
+            for (int y = 0; y < 8; y++) {
                 drawTile(g, controller.getGameTiles()[y][x], x, y);
             }
         }
 
-        g.drawString("Score: " + controller.getScore(), 140, 465);
+        g.drawString("Score: " + controller.getScore(), 280, 740); //140, 465
 
         if (isGameWon) {
-            JOptionPane.showMessageDialog(this, "You've won!");
+            JOptionPane.showMessageDialog(this, "Ты выиграл!");
         } else if (isGameLost) {
-            JOptionPane.showMessageDialog(this, "You've lost :(");
+            JOptionPane.showMessageDialog(this, "Ты проиграл =(");
         }
     }
 

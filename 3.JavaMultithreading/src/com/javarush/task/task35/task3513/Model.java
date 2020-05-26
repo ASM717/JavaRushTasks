@@ -3,7 +3,7 @@ package com.javarush.task.task35.task3513;
 import java.util.*;
 
 public class Model {
-    private static final int FIELD_WIDTH = 4;
+    private static final int FIELD_WIDTH = 8;
     private Tile[][] gameTiles;
     int score;
     int maxTile;
