@@ -11,11 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/MoveEfficiency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/MoveEfficiency.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/MoveEfficiency.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Задание" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Задание" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Условие.jrtc" afterDir="false" />
     </list>
@@ -820,11 +819,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="510" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1588533383336" />
-    <state x="898" y="110" key="#com.intellij.ide.util.MemberChooser" timestamp="1590330927962">
+    <state x="883" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1590475692058">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="898" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590330927962" />
-    <state x="883" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1590181775657" />
+    <state x="898" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590392583399" />
+    <state x="883" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1590475692058" />
     <state x="385" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588327949035">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -890,26 +889,26 @@
     </state>
     <state x="556" y="160" width="882" height="590" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626866194" />
     <state x="477" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589727388899" />
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1590354041016">
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1590484805347">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590354041016" />
-    <state width="1493" height="475" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590189221547" />
-    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1590354041016">
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1590484805347" />
+    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1590484805347">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590354041016" />
-    <state width="1493" height="475" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590189221547" />
-    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1590354041016">
+    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1590484805347" />
+    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1590484805347">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590354041016" />
-    <state width="1493" height="475" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590189221547" />
-    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1590354041016">
+    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1590484805347" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1590484805347">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590354041016" />
-    <state width="1493" height="475" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590189221547" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1590484805347" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1589381677748">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1001,11 +1000,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1588458229245" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1589660595207">
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1590475711801">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589660595207" />
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1589657030288" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1590475711801" />
     <state x="599" y="208" key="svn.repositoryBrowser" timestamp="1589584042656">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

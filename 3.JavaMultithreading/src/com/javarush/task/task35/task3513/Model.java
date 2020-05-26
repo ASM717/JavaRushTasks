@@ -1,8 +1,6 @@
 package com.javarush.task.task35.task3513;
 
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Stack;
+import java.util.*;
 
 public class Model {
     private static final int FIELD_WIDTH = 4;
@@ -32,15 +30,6 @@ public class Model {
     }
 
     public void resetGameTiles() {
-        /*score = 0;
-        maxTile = 2;
-        for (int i = 0; i < FIELD_WIDTH; i++) {
-            for (int j = 0; j < FIELD_WIDTH; j++) {
-                gameTiles[i][j] = new Tile();
-            }
-        }
-        addTile();
-        addTile();*/
 
         gameTiles = new Tile[Model.FIELD_WIDTH][Model.FIELD_WIDTH];
         for (int i = 0; i < FIELD_WIDTH; i++) {
@@ -249,6 +238,45 @@ public class Model {
             case 3 : down(); break;
         }
     }
+
+    private boolean hasBoardChanged() {
+        boolean result = false;
+        int sumNow = 0;
+        int sumPrevious = 0;
+        Tile[][] tmp = previousStates.peek();
+        for (int i = 0; i < gameTiles.length; i++) {
+            for (int j = 0; j < gameTiles[0].length; j++) {
+                sumNow += gameTiles[i][j].getValue();
+                sumPrevious += tmp[i][j].getValue();
+            }
+        }
+        return sumNow != sumPrevious;
+    }
+
+    // проверка эффективности хода
+    private MoveEfficiency getMoveEfficiency(Move move) {
+        MoveEfficiency moveEfficiency;
+        move.move();
+        if (hasBoardChanged()) moveEfficiency = new MoveEfficiency(getEmptyTiles().size(), score, move);
+        else moveEfficiency = new MoveEfficiency(-1, 0, move);
+        rollback();
+
+        return moveEfficiency;
+    }
+
+    public void autoMove() {
+        //1)чтобы вверху очереди всегда был максимальный элемент) и размером равным четырем.
+        PriorityQueue<MoveEfficiency> priorityQueue = new PriorityQueue<>(4, Collections.reverseOrder());
+        //2) Заполним PriorityQueue четырьмя объектами типа MoveEfficiency (по одному на каждый вариант хода).
+        priorityQueue.add(getMoveEfficiency(this::left));
+        priorityQueue.add(getMoveEfficiency(this::right));
+        priorityQueue.add(getMoveEfficiency(this::up));
+        priorityQueue.add(getMoveEfficiency(this::down));
+        //3) Возьмем верхний элемент и выполним ход связанный с ним.
+        Move move = priorityQueue.peek().getMove();
+        move.move();
+    }
+
 
 }
 
