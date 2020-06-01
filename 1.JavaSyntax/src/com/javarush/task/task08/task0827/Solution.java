@@ -11,7 +11,6 @@ public class Solution {
         System.out.println(isDateOdd("MAY 1 2013"));
     }
 
-
     public static boolean isDateOdd(String date) {
         Date dt1 = new Date(date);
         Date dt2 = new Date(date);
@@ -23,5 +22,4 @@ public class Solution {
             return true;
         } else return false;
     }
-
 }
