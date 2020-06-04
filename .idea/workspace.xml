@@ -11,14 +11,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3103/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3103/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3104/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3104/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3113/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3113/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3105/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3105/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3106/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3106/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3107/ConcreteFileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3107/FileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3107/NullFileData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3107/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3107/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3108/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3108/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0827/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0827/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3113/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task31/task3113/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,7 +146,7 @@
       <recent name="D:\intellijSandbox\JavaRushTasks" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -412,13 +417,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task08.task0827.Solution" />
-      <module name="1.JavaSyntax" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3106.Solution" />
+      <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task08.task0827.*" />
+          <option name="PATTERN" value="com.javarush.task.task31.task3106.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -426,13 +431,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task30.task3013.Solution" />
-      <module name="3.JavaMultithreading" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task31.task3108.Solution" />
+      <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task30.task3013.*" />
+          <option name="PATTERN" value="com.javarush.task.task31.task3108.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -507,18 +512,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Solution (4)" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.Solution (1)" />
       <item itemvalue="Application.Solution (2)" />
+      <item itemvalue="Application.Solution (3)" />
+      <item itemvalue="Application.Solution (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -852,10 +857,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="616" y="307" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.834@0.0.1536.834" timestamp="1588371521151" />
-    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1588602611197">
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591208607777">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1588602611197" />
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1591208607777" />
     <state x="366" y="343" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1584521642480">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -905,26 +910,26 @@
     </state>
     <state x="556" y="160" width="882" height="590" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626866194" />
     <state x="477" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589727388899" />
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1591044386570">
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom" timestamp="1591258090937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590696704015" />
-    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591044386570" />
-    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1591044386570">
+    <state width="1493" height="227" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1591258090937" />
+    <state width="1493" height="227" key="GridCell.Tab.0.center" timestamp="1591258090937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590696704015" />
-    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591044386570" />
-    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1591044386570">
+    <state width="1493" height="227" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1591258090937" />
+    <state width="1493" height="227" key="GridCell.Tab.0.left" timestamp="1591258090936">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590696704015" />
-    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591044386570" />
-    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1591044386570">
+    <state width="1493" height="227" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1591258090936" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right" timestamp="1591258090937">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590696704015" />
-    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591044386570" />
+    <state width="1493" height="227" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1591258090937" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1589381677748">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -1003,11 +1008,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="517" y="312" key="git4idea.ui.GitResetDialog/0.0.1536.834@0.0.1536.834" timestamp="1589586377180" />
-    <state x="217" y="63" key="new project wizard" timestamp="1591017251514">
+    <state x="222" y="54" key="new project wizard" timestamp="1591078517851">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="217" y="63" key="new project wizard/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591017251514" />
-    <state x="222" y="54" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1590679747742" />
+    <state x="222" y="54" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1591078517851" />
     <state x="511" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1589278828696">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

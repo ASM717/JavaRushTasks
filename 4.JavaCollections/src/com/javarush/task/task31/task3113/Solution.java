@@ -19,7 +19,6 @@ public class Solution {
         reader.close();
         Path path = Paths.get(StringPath);
 
-
         if (!Files.isDirectory(path)) {
             System.out.println(path +" - не папка");
         } else {
