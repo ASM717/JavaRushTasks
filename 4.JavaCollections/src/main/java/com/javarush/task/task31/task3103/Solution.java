@@ -10,7 +10,7 @@ import java.util.List;
 */
 public class Solution {
     public static byte[] readBytes(String fileName) throws IOException {
-        return Files.readAllBytes(Paths.get(fileName));
+        return Files.readAllBytes(Paths.get (fileName));
     }
 
     public static List<String> readLines(String fileName) throws IOException {
