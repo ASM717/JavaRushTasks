@@ -6,8 +6,8 @@ public class Rocket extends BaseObject {
     }
 
     @Override
-    public void draw() {
-        super.draw();
+    public void draw(Canvas canvas) {
+        super.draw(canvas);
     }
 
     @Override
