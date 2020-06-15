@@ -38,6 +38,5 @@ public class SoftCache {
         } else {
             return null;
         }
-
     }
 }
