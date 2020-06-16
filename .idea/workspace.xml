@@ -11,21 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_api_1_7_23.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_jdk14_2_0_0_alpha1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/slf4j_log4j13_1_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3409/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3412/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task34/task3412/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/AmigoSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/Условие.jrtc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_05_2020_15_00__Default_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_05_2020_15_00__Default_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_05_2020_15_01__Default_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_16_05_2020_15_01__Default_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_05_2020_12_08__Default_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_05_2020_12_08__Default_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_05_2020_12_09__Default_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_17_05_2020_12_09__Default_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/HashMapReflectionHelper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/AmigoSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/AmigoSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task37/task3707/Условие.jrtc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,15 +131,11 @@
     <property name="settings.editor.splitter.proportion" value="0.27507755" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.javarush.task.task30.task3008.client" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.javarush.task.task33.task3306" />
-      <recent name="com.javarush.task.task30.task3004" />
-      <recent name="com.javarush.task.task27.task2712.ad" />
-      <recent name="com.javarush.task.task23.task2304" />
-      <recent name="com.javarush.task.task18.task1811" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\stepa\Google Диск\JavaRushTasks\JavaRushTasks\4.JavaCollections\src" />
@@ -159,8 +144,12 @@
       <recent name="C:\Users\stepa\Google Диск\JavaRushTasks\JavaRushTasks\3.JavaMultithreading\src\com\javarush\task\task35\task3513\src" />
       <recent name="C:\Users\stepa\Google Диск\JavaRushTasks\JavaRushTasks\2.JavaCore\src\com\javarush\task\task13\task1318" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.task.task33.task3306" />
+      <recent name="com.javarush.task.task30.task3004" />
+      <recent name="com.javarush.task.task27.task2712.ad" />
+      <recent name="com.javarush.task.task23.task2304" />
+      <recent name="com.javarush.task.task18.task1811" />
     </key>
   </component>
   <component name="RunManager" selected="Application.Solution (1)">
@@ -872,11 +861,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="378" y="76" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.834@0.0.1536.834" timestamp="1590691753084" />
-    <state x="825" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1592251405041">
+    <state x="825" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1592285449459">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="898" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591694493836" />
-    <state x="825" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1592251405041" />
+    <state x="825" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1592285449459" />
     <state x="385" y="203" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588327949035">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -927,10 +916,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="641" y="261" key="DetectedRootsChooserDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591853912666" />
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1589583148242">
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1592293998624">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1589583148242" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1592293998624" />
     <state x="713" y="149" key="FileChooserDialogImpl" timestamp="1592234221253">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -955,26 +944,26 @@
     </state>
     <state x="556" y="160" width="882" height="590" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626866194" />
     <state x="477" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589727388899" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1592251362280">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1592255033730">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591855891201" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592251362280" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1592251362280">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592255033730" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1592255033730">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="152" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591855891200" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592251362280" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1592251362280">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1592255033730" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1592255033730">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="152" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591855891200" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592251362280" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1592251362280">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1592255033730" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1592255033730">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1493" height="152" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591855891201" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592251362280" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1592255033730" />
     <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1592216754513">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
