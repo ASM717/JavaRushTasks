@@ -1,6 +1,8 @@
 package com.javarush.task.task36.task3602;
 
-/* 
+import java.util.Collections;
+
+/*
 Найти класс по описанию Ӏ Java Collections: 6 уровень, 6 лекция
 */
 public class Solution {
@@ -9,6 +11,12 @@ public class Solution {
     }
 
     public static Class getExpectedClass() {
+        Class [] classes = Collections.class.getDeclaredClasses();
+        try {
+            return Class.forName("java.util.Collections$EmptyList");
+        } catch (ClassNotFoundException e) {
+            e.printStackTrace();
+        }
         return null;
     }
 }

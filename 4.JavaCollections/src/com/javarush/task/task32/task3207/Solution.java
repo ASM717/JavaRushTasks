@@ -1,6 +1,7 @@
 package com.javarush.task.task32.task3207;
 
 import java.rmi.AlreadyBoundException;
+import java.rmi.NotBoundException;
 import java.rmi.Remote;
 import java.rmi.RemoteException;
 import java.rmi.registry.LocateRegistry;
@@ -18,7 +19,14 @@ public class Solution {
     public static Thread CLIENT_THREAD = new Thread(new Runnable() {
         @Override
         public void run() {
-            //напишите тут ваш код
+            try {
+                DoubleString service = (DoubleString) registry.lookup(UNIC_BINDING_NAME);
+                System.out.println(service.doubleString("Hello"));
+            } catch (RemoteException e) {
+                e.printStackTrace();
+            } catch (NotBoundException e) {
+                e.printStackTrace();
+            }
         }
     });
 
