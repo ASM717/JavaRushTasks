@@ -9,11 +9,10 @@ public class Main {
         Model model = new Model();
         Controller controller = new Controller(model);
         JFrame game = new JFrame();
-        Image image = new ImageIcon("2048.png").getImage();
-        game.setIconImage(image);
         game.setTitle("2048");
+        game.setIconImage(Toolkit.getDefaultToolkit().getImage(Main.class.getResource("2048.png")));
         game.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        game.setSize(730, 800);
+        game.setSize(780, 800);
         game.setResizable(false);
 
         game.add(controller.getView());
