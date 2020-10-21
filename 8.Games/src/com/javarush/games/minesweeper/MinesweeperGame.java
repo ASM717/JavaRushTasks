@@ -11,9 +11,9 @@ public class MinesweeperGame extends Game {
     private GameObject[][] gameField = new GameObject[SIDE][SIDE];
     private int countMinesOnField;
     private int countFlags;
-    private static final String MINE = ("\uD83D\uDCA3");
-    private static final String FLAG = ("\uD83D\uDEA9");
 
+    private static final String MINE = "\uD83D\uDCA3";
+    private static final String FLAG = "\uD83D\uDEA9";
 
 
     @Override
@@ -21,9 +21,15 @@ public class MinesweeperGame extends Game {
         setScreenSize(SIDE, SIDE);
         createGame();
     }
+
     @Override
     public void onMouseLeftClick(int x, int y) {
         openTile(x, y);
+    }
+
+    @Override
+    public void onMouseRightClick(int x, int y) {
+        markTile(x, y);
     }
 
     private void createGame() {
@@ -38,7 +44,6 @@ public class MinesweeperGame extends Game {
             }
         }
         countMineNeighbors();
-
         countFlags = countMinesOnField;
     }
 
@@ -60,14 +65,16 @@ public class MinesweeperGame extends Game {
         }
         return result;
     }
+
     private void countMineNeighbors() {
-        for(int y = 0; y < SIDE; y++) {
-            for(int x = 0; x < SIDE; x++) {
-                if(!gameField[y][x].isMine) {
-                     List<GameObject> list = new ArrayList<GameObject>();
-                    list = getNeighbors(gameField[y][x]);
-                    for(GameObject object : list) {
-                        if(object.isMine) gameField[y][x].countMineNeighbors++;
+        for (int y = 0; y < SIDE; y++) {
+            for (int x = 0; x < SIDE; x++) {
+                GameObject gameObject = gameField[y][x];
+                if (!gameObject.isMine) {
+                    for (GameObject neighbor : getNeighbors(gameObject)) {
+                        if (neighbor.isMine) {
+                            gameObject.countMineNeighbors++;
+                        }
                     }
                 }
             }
@@ -75,24 +82,41 @@ public class MinesweeperGame extends Game {
     }
 
     private void openTile(int x, int y) {
-        if (!gameField[y][x].isOpen) {
-            gameField[y][x].isOpen = true;
-            setCellColor(x, y, Color.RED);
-            setCellNumber(x, y, gameField[y][x].countMineNeighbors);
-
-            if (!gameField[y][x].isMine && gameField[y][x].countMineNeighbors == 0) {
-                for (GameObject gameObject : getNeighbors(gameField[y][x])) {
-                    openTile(gameObject.x, gameObject.y);
-                    setCellValue(x, y, "");
+        GameObject gameObject = gameField[y][x];
+        gameObject.isOpen = true;
+        setCellColor(x, y, Color.GREEN);
+        if (gameObject.isMine) {
+            setCellValue(gameObject.x, gameObject.y, MINE);
+        } else if (gameObject.countMineNeighbors == 0) {
+            setCellValue(gameObject.x, gameObject.y, "");
+            List<GameObject> neighbors = getNeighbors(gameObject);
+            for (GameObject neighbor : neighbors) {
+                if (!neighbor.isOpen) {
+                    openTile(neighbor.x, neighbor.y);
                 }
             }
-            else if (gameField[y][x].isMine) {
-                gameField[y][x].isOpen = true;
-                setCellColor(x, y, Color.RED);
-                setCellValue(x, y, MINE);
-            }
-        } else if (!gameField[y][x].isMine && gameField[y][x].countMineNeighbors == 0) {
-            System.out.println(" ");
+        } else {
+            setCellNumber(x, y, gameObject.countMineNeighbors);
+        }
+    }
+
+    private void markTile(int x, int y) {
+        GameObject gameObject = gameField[y][x];
+
+        if (gameObject.isOpen || (countFlags == 0 && !gameObject.isFlag)) {
+            return;
+        }
+
+        if (gameObject.isFlag) {
+            countFlags++;
+            gameObject.isFlag = false;
+            setCellValue(x, y, "");
+            setCellColor(x, y, Color.ORANGE);
+        } else {
+            countFlags--;
+            gameObject.isFlag = true;
+            setCellValue(x, y, FLAG);
+            setCellColor(x, y, Color.YELLOW);
         }
     }
 }
