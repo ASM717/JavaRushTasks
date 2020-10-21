@@ -14,30 +14,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/ExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Helper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Shortener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/HashMapStorageStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/StorageStrategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3606/HiddenClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3606/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3606/data/second/FirstHiddenClassImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3606/data/second/PackageAccessClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3606/data/second/SecondHiddenClassImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3606/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3607/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3607/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3610/MyMultiMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3610/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3610/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3612/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3612/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3613/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task36/task3613/Условие.jrtc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/Entry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/FileBucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/FileStorageStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/HashBiMapStorageStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/OurHashBiMapStorageStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/OurHashMapStorageStrategy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/3.JavaMultithreading/src/com/javarush/task/task35/task3513/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Shortener.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Shortener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/HashMapStorageStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/strategy/HashMapStorageStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/4.JavaCollections/src/com/javarush/task/task33/task3310/Условие.jrtc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -142,27 +129,26 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="js.eslint.eslintPackage" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/guava-19.0.jar" />
     <property name="nodejs_interpreter_path" value="$PROJECT_DIR$/../../../../../Program Files/nodejs/node" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="settings.editor.splitter.proportion" value="0.27507755" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stepa\Google Диск\JavaRushTasks\JavaRushTasks\4.JavaCollections\lib" />
+      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="com.javarush.task.task30.task3008.client" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.javarush.task.task33.task3306" />
-      <recent name="com.javarush.task.task30.task3004" />
-      <recent name="com.javarush.task.task27.task2712.ad" />
-      <recent name="com.javarush.task.task23.task2304" />
-      <recent name="com.javarush.task.task18.task1811" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\stepa\Google Диск\JavaRushTasks\JavaRushTasks\4.JavaCollections\src" />
@@ -171,11 +157,15 @@
       <recent name="C:\Users\stepa\Google Диск\JavaRushTasks\JavaRushTasks\3.JavaMultithreading\src\com\javarush\task\task35\task3513\src" />
       <recent name="C:\Users\stepa\Google Диск\JavaRushTasks\JavaRushTasks\2.JavaCore\src\com\javarush\task\task13\task1318" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\intellijSandbox\JavaRushTasks" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javarush.task.task33.task3306" />
+      <recent name="com.javarush.task.task30.task3004" />
+      <recent name="com.javarush.task.task27.task2712.ad" />
+      <recent name="com.javarush.task.task23.task2304" />
+      <recent name="com.javarush.task.task18.task1811" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -271,25 +261,6 @@
       <method />
     </configuration>
     <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="myFilePath" />
-      <option name="GLUE" />
-      <option name="myNameFilter" />
-      <option name="myGeneratedName" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
@@ -418,20 +389,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task36.task3605.Solution" />
-      <module name="4.JavaCollections" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javarush.task.task36.task3605.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task36.task3612.Solution" />
       <module name="4.JavaCollections" />
@@ -460,13 +417,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task36.task3611.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3310.Solution" />
       <module name="4.JavaCollections" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javarush.task.task36.task3611.*" />
+          <option name="PATTERN" value="com.javarush.task.task33.task3310.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -480,12 +437,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="guava-19.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/4.JavaCollections/lib/guava-19.0.jar" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
@@ -540,19 +506,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Solution (1)" />
+      <item itemvalue="Application.Main" />
       <item itemvalue="Application.Solution (2)" />
       <item itemvalue="Application.Solution (3)" />
-      <item itemvalue="Application.Solution" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution (4)" />
+      <item itemvalue="JAR Application.guava-19.0.jar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="JAR Application.guava-19.0.jar" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -845,237 +811,54 @@
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="76" width="652" height="668" key="#Notifications" timestamp="1591879670431">
+    <state x="361" y="58" key="#Plugins" timestamp="1600371668824">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="590" y="132" key="#Notifications/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589625425237" />
-    <state x="361" y="76" width="652" height="668" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1591879670431" />
-    <state x="361" y="58" key="#Plugins" timestamp="1597675929558">
+    <state x="361" y="58" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1600371668824" />
+    <state x="825" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1603057212752">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="58" key="#Plugins/0.0.1536.834@0.0.1536.834" timestamp="1597675929558" />
-    <state x="249" y="0" key="#Project_Structure" timestamp="1592235303862">
+    <state x="825" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1603057212752" />
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1600366595552">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="249" y="0" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1592235303862" />
-    <state x="460" y="37" key="#Solution_(3)" timestamp="1592234941271">
+    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1600366595552" />
+    <state x="74" y="55" width="1350" height="648" key="DiffContextDialog" timestamp="1603307459889">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="460" y="37" key="#Solution_(3)/0.0.1536.834@0.0.1536.834" timestamp="1592234941271" />
-    <state x="341" y="194" key="#VisualVM_Launcher" timestamp="1592201383638">
+    <state x="74" y="55" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1603307459889" />
+    <state x="629" y="144" width="608" height="488" key="FileChooserDialogImpl" timestamp="1603307151003">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="341" y="194" key="#VisualVM_Launcher/0.0.1536.834@0.0.1536.834" timestamp="1592201383638" />
-    <state x="199" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590691774251">
+    <state x="629" y="144" width="608" height="488" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603307151003" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1603307223844">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="199" y="81" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1590691774251" />
-    <state x="510" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591710173136">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603307223844" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1603307223844">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="510" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1591710173136" />
-    <state x="378" y="76" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1590691753084">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603307223844" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1603307223844">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="378" y="76" key="#com.intellij.ide.macro.MacrosDialog/0.0.1536.834@0.0.1536.834" timestamp="1590691753084" />
-    <state x="825" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1597691139405">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603307223844" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1603307223844">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="898" y="110" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591694493836" />
-    <state x="825" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1597691139405" />
-    <state x="491" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1592233642853">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603307223844" />
+    <state x="261" y="104" width="1038" height="687" key="SettingsEditor" timestamp="1603307156039">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="480" y="107" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591853311492" />
-    <state x="491" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1592233642853" />
-    <state x="711" y="153" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1591809163059">
+    <state x="261" y="104" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603307156039" />
+    <state x="270" y="55" width="1171" height="726" key="new project wizard" timestamp="1600408687762">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="711" y="153" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1536.834@0.0.1536.834" timestamp="1591809163059" />
-    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1596985673628">
+    <state x="270" y="55" width="1171" height="726" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1600408687762" />
+    <state x="409" y="133" width="672" height="678" key="search.everywhere.popup" timestamp="1599825813381">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="449" y="153" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.834@0.0.1536.834" timestamp="1596985673628" />
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591893664153">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1591893664153" />
-    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1590342080749">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="499" y="164" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1590342080749" />
-    <state x="480" y="37" key="#jackson-annotations-2.6.1.jar" timestamp="1591854832639">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="480" y="37" key="#jackson-annotations-2.6.1.jar/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591854832639" />
-    <state x="475" y="99" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1591865573910">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="475" y="99" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.834@0.0.1536.834" timestamp="1591865573910" />
-    <state x="246" y="0" key="CommitChangelistDialog2" timestamp="1589580409281">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="246" y="0" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1589580409281" />
-    <state x="641" y="261" key="DetectedRootsChooserDialog" timestamp="1591853912666">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="641" y="261" key="DetectedRootsChooserDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591853912666" />
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1592293998624">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1592293998624" />
-    <state x="713" y="149" key="FileChooserDialogImpl" timestamp="1597086690284">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="549" y="160" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591949659010" />
-    <state x="713" y="149" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1597086690284" />
-    <state x="588" y="337" key="Github.CreateGistDialog" timestamp="1589618230179">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="588" y="337" key="Github.CreateGistDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589618230179" />
-    <state x="588" y="337" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1589585619754" />
-    <state x="546" y="284" key="Github.CreatePullRequestDialog" timestamp="1589625986732">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="546" y="284" key="Github.CreatePullRequestDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589625986732" />
-    <state x="642" y="198" key="Github.ShareDialog" timestamp="1589727358444">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="670" y="314" key="Github.ShareDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589631301937" />
-    <state x="642" y="198" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1589727358444" />
-    <state x="477" y="122" width="882" height="590" key="Github.UntrackedFilesDialog" timestamp="1589727388899">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="556" y="160" width="882" height="590" key="Github.UntrackedFilesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626866194" />
-    <state x="477" y="122" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1589727388899" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1598009755148">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591855891201" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1598009755148" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1598009755148">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591855891200" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1598009755148" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1598009755148">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591855891200" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1598009755148" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1598009755148">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="152" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591855891201" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1598009755148" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1592343655647">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1592343655647" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1592343655647">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1592343655647" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1592343655647">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1592343655647" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1592343655647">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1592343655647" />
-    <state x="276" y="100" width="1191" height="691" key="IDE.errors.dialog" timestamp="1591881740557">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="325" y="74" key="IDE.errors.dialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591855136857" />
-    <state x="276" y="100" width="1191" height="691" key="IDE.errors.dialog/0.0.1536.834@0.0.1536.834" timestamp="1591881740557" />
-    <state x="234" y="66" key="MergeDialog" timestamp="1589710292476">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="234" y="66" key="MergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1589710292476" />
-    <state x="656" y="285" width="454" height="263" key="MultipleFileMergeDialog" timestamp="1589710292479">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="656" y="285" width="454" height="263" key="MultipleFileMergeDialog/0.0.1536.834@0.0.1536.834" timestamp="1589710292479" />
-    <state x="467" y="120" key="RollbackChangesDialog" timestamp="1591811419209">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="467" y="120" key="RollbackChangesDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589626091514" />
-    <state x="467" y="120" key="RollbackChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1591811419209" />
-    <state x="261" y="104" width="1038" height="687" key="SettingsEditor" timestamp="1597086698924">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="326" y="76" width="1038" height="687" key="SettingsEditor/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591854189898" />
-    <state x="261" y="104" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1597086698924" />
-    <state x="508" y="133" key="VCS.ChangeListViewerDialog" timestamp="1589706582929">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="508" y="133" key="VCS.ChangeListViewerDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589630439048" />
-    <state x="508" y="133" key="VCS.ChangeListViewerDialog/0.0.1536.834@0.0.1536.834" timestamp="1589706582929" />
-    <state x="599" y="287" key="VCS.EditChangelistDialog" timestamp="1589624270826">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="599" y="287" key="VCS.EditChangelistDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589624270826" />
-    <state x="369" y="187" key="Vcs.Push.Dialog.v2" timestamp="1589717504588">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="369" y="187" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589670602043" />
-    <state x="369" y="187" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1589717504588" />
-    <state x="549" y="287" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1592234435072">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="561" y="283" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591854124240" />
-    <state x="549" y="287" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.834@0.0.1536.834" timestamp="1592234435072" />
-    <state x="491" y="151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1589628816841">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="491" y="151" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589628816841" />
-    <state x="573" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589710241715">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="573" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589628974769" />
-    <state x="573" y="331" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1589710241715" />
-    <state x="507" y="206" key="git4idea.merge.GitPullDialog" timestamp="1589630506362">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="507" y="206" key="git4idea.merge.GitPullDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1589630506362" />
-    <state x="507" y="206" key="git4idea.merge.GitPullDialog/0.0.1536.834@0.0.1536.834" timestamp="1589584805051" />
-    <state x="536" y="279" key="git4idea.rebase.GitRebaseDialog" timestamp="1589586416164">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="536" y="279" key="git4idea.rebase.GitRebaseDialog/0.0.1536.834@0.0.1536.834" timestamp="1589586416164" />
-    <state x="517" y="312" key="git4idea.ui.GitResetDialog" timestamp="1589586377180">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="517" y="312" key="git4idea.ui.GitResetDialog/0.0.1536.834@0.0.1536.834" timestamp="1589586377180" />
-    <state x="270" y="55" width="1171" height="726" key="new project wizard" timestamp="1597838780381">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="198" y="76" key="new project wizard/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591949088976" />
-    <state x="270" y="55" width="1171" height="726" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1597838780381" />
-    <state x="511" y="38" key="refactoring.ChangeSignatureDialog" timestamp="1592598747965">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="511" y="38" key="refactoring.ChangeSignatureDialog/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591705646322" />
-    <state x="511" y="38" key="refactoring.ChangeSignatureDialog/0.0.1536.834@0.0.1536.834" timestamp="1592598747965" />
-    <state x="425" y="189" key="run.anything.popup" timestamp="1592201079521">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="425" y="189" key="run.anything.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591852274383" />
-    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1592201079521" />
-    <state x="409" y="133" width="672" height="678" key="search.everywhere.popup" timestamp="1592320521098">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/1920.0.1920.1050@0.0.1536.834" timestamp="1591291374874" />
-    <state x="409" y="133" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1592320521098" />
-    <state x="599" y="208" key="svn.repositoryBrowser" timestamp="1589584042656">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="599" y="208" key="svn.repositoryBrowser/0.0.1536.834@0.0.1536.834" timestamp="1589584042656" />
-    <state x="593" y="191" key="svn4idea.import.options" timestamp="1589584040971">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="593" y="191" key="svn4idea.import.options/0.0.1536.834@0.0.1536.834" timestamp="1589584040971" />
+    <state x="409" y="133" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1599825813381" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
