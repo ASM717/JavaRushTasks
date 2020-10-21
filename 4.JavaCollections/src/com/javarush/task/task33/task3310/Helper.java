@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.security.SecureRandom;
 
 public class Helper {
-    static String generateRandomString() {
+    public static String generateRandomString() {
         SecureRandom random = new SecureRandom();
         return new BigInteger(130, new SecureRandom()).toString(36);
     }
