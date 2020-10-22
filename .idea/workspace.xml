@@ -14,19 +14,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit">
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0824/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0824/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0826/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0826/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0828/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task08/task0828/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0924/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0924/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0927/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task09/task0927/Условие.jrtc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1019/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.JavaSyntax/src/com/javarush/task/task10/task1019/Условие.jrtc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/GameObject.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/Условие.jrtc" afterDir="false" />
     </list>
@@ -142,7 +131,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.27507755" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -169,7 +158,7 @@
       <recent name="com.javarush.task.task18.task1811" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.MinesweeperGame">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -379,6 +368,20 @@
     <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
       <method />
     </configuration>
+    <configuration name="MinesweeperGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javarush.games.minesweeper.MinesweeperGame" />
+      <module name="8.Games" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javarush.games.minesweeper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javarush.task.task33.task3310.Solution" />
       <module name="4.JavaCollections" />
@@ -457,10 +460,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="guava-19.0.jar" type="JarApplication" temporary="true">
-      <option name="JAR_PATH" value="$PROJECT_DIR$/4.JavaCollections/lib/guava-19.0.jar" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
@@ -518,15 +517,15 @@
       <item itemvalue="Application.Solution" />
       <item itemvalue="JUnit.FunctionalTest" />
       <item itemvalue="JUnit.SpeedTest" />
-      <item itemvalue="JAR Application.guava-19.0.jar" />
+      <item itemvalue="Application.MinesweeperGame" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinesweeperGame" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="JUnit.SpeedTest" />
         <item itemvalue="JUnit.FunctionalTest" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="JAR Application.guava-19.0.jar" />
       </list>
     </recent_temporary>
   </component>
@@ -734,7 +733,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603308761552</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="commit">
+      <created>1603310529076</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1603310529076</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -849,38 +855,38 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="544" y="328" key="DetectedRootsChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1603308114084" />
-    <state x="74" y="55" width="1350" height="648" key="DiffContextDialog" timestamp="1603310416728">
+    <state x="74" y="55" width="1350" height="648" key="DiffContextDialog" timestamp="1603350102666">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="74" y="55" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1603310416728" />
+    <state x="74" y="55" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1603350102666" />
     <state x="629" y="144" width="608" height="488" key="FileChooserDialogImpl" timestamp="1603308105504">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="629" y="144" width="608" height="488" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1603308105504" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1603310449022">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1603350412099">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603310449022" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1603310449021">
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603350412099" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1603350412099">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603310449021" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1603310449021">
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603350412099" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1603350412098">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603310449021" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1603310449021">
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603350412098" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1603350412099">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603310449021" />
-    <state x="261" y="104" width="1038" height="687" key="SettingsEditor" timestamp="1603308121369">
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603350412099" />
+    <state x="252" y="67" width="1038" height="687" key="SettingsEditor" timestamp="1603311213794">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="261" y="104" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603308121369" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1603308763120">
+    <state x="252" y="67" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603311213794" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1603310531518">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603308763120" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603310531518" />
     <state x="270" y="55" width="1171" height="726" key="new project wizard" timestamp="1600408687762">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
