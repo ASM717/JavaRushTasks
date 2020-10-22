@@ -4,6 +4,7 @@ idea
 *.log
 *.iml
 /JavaRushPlugin.properties
+*.jrtc
 
 
 # Compiled class file

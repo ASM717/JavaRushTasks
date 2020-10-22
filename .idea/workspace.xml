@@ -13,11 +13,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="commit">
+    <list default="true" id="8a9c2848-0864-419d-ba1c-a0669c6ee00f" name="Default" comment="MinesweeperGame">
+      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/moonlander/GameObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/moonlander/MoonLanderGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/moonlander/Условие.jrtc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/GameObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/MinesweeperGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/Условие.jrtc" beforeDir="false" afterPath="$PROJECT_DIR$/8.Games/src/com/javarush/games/minesweeper/Условие.jrtc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -740,7 +741,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603310529076</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="MinesweeperGame">
+      <created>1603350460409</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1603350460409</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -835,7 +843,8 @@
     <MESSAGE value="com" />
     <MESSAGE value="start" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="MinesweeperGame" />
+    <option name="LAST_COMMIT_MESSAGE" value="MinesweeperGame" />
     <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
   <component name="WindowStateProjectService">
@@ -855,10 +864,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="544" y="328" key="DetectedRootsChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1603308114084" />
-    <state x="74" y="55" width="1350" height="648" key="DiffContextDialog" timestamp="1603350102666">
+    <state x="98" y="109" width="1350" height="606" key="DiffContextDialog" timestamp="1603351712220">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="74" y="55" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1603350102666" />
+    <state x="98" y="109" width="1350" height="606" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1603351712220" />
     <state x="629" y="144" width="608" height="488" key="FileChooserDialogImpl" timestamp="1603308105504">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -883,10 +892,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="252" y="67" width="981" height="707" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603311213794" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1603310531518">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1603350462512">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603310531518" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1603350462512" />
     <state x="270" y="55" width="1171" height="726" key="new project wizard" timestamp="1600408687762">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
